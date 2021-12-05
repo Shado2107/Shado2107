@@ -14,12 +14,14 @@
 
 ## 🙋‍♂️ Connect with me:
 
-
+whatsapp : [+228 99 75 23 27](https://wa.me/22899752327)
+Twitter : 
+Facebook :
 
 
 ## 👨‍💻 Languages and Tools:
 
-* ReactJs
+* ReactJs 
 * Nextjs
 * Sass
 * Javascript

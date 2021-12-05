@@ -8,7 +8,7 @@
 * 💻 I'm a web developer
 * 🎨 I'm a self-taught UI designer
 * 🎓 I'm a Computer Science student 
-* 🌐 You can see some of my projects on [my portfolio]()
+* 🌐 You can see some of my projects on [my portfolio](https://aitalmeida.com/)
 * 🎨 I'm also a graphic designer
 
 
@@ -19,6 +19,12 @@
 
 ## 👨‍💻 Languages and Tools:
 
+* ReactJs
+* Nextjs
+* Sass
+* Javascript
+* Php
+* Laravel
 
 
 

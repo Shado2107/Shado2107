@@ -15,7 +15,7 @@
 ## 🙋‍♂️ Connect with me:
 
 whatsapp : [+228 99 75 23 27](https://wa.me/22899752327)
-Twitter : 
+Twitter :  [Almeida Pavel](https://twitter.com/AlmeidaPavel)
 Facebook :
 
 
@@ -28,7 +28,7 @@ Facebook :
 * Php
 * Laravel
 
-
+[![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shado2107)]
 
 </details>
 

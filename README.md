@@ -6,10 +6,10 @@
 ## 📖 About me
 
 * 💻 I'm a web developer
-* 🎨 I'm a self-taught UI designer
+* 🎨 I'm a self-taught UI/UX designer
 * 🎓 I'm a Computer Science student 
 * 🌐 You can see some of my projects on [my portfolio](https://aitalmeida.tech/)
-* 🎨 I'm also a graphic designer
+  
 
 
 ## 🙋‍♂️ Connect with me:
@@ -33,7 +33,8 @@
 
 ##
 
-[![](https://visitcount.itsvg.in/api?id=Shado2107&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shado2107&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
 ![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shado2107&show_icons=true&theme=dark)
 

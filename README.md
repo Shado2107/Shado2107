@@ -28,6 +28,10 @@
 * Php
 * Laravel
 
+##
+
+[![](https://visitcount.itsvg.in/api?id=shado&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 ![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shado2107&show_icons=true&theme=dark)
 
 

@@ -27,10 +27,13 @@
 * Javascript
 * Php
 * Laravel
+* Figma
+* Trello
+ 
 
 ##
 
-[![](https://visitcount.itsvg.in/api?id=shado&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shado2107&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shado2107&show_icons=true&theme=dark)
 

@@ -6,7 +6,6 @@
 ## 📖 About me
 
 * 💻 I'm a web developer
-* 🎨 I'm a self-taught UI/UX designer
 * 🎓 I'm a Computer Science student 
 * 🌐 You can see some of my projects on [my portfolio](https://aitalmeida.tech/)
   
@@ -23,13 +22,9 @@
 
 * ReactJs 
 * Nextjs
-* Sass
 * Javascript
 * Php
 * Laravel
-* Figma
-* Trello
- 
 
 ##
 

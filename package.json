@@ -1,0 +1,22 @@
+{
+  "name": "shado2107",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shado2107/Shado2107.git"
+  },
+  "author": "Pavel Romanus",
+  "license": "ISC",
+  "bug": {
+
+  },
+  "homepage": "https://github.com/Shado2107/Shado2107#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}

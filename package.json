@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shado2107/Shado2107.git"
+    "url": "git+https://github.com/Shado2107/Shado2107.git"
   },
   "author": "Pavel Romanus",
   "license": "ISC",
   "bug": {
-
+    "url": "https://github.com/Shado2107/Shado2107/issues"
   },
   "homepage": "https://github.com/Shado2107/Shado2107#readme",
   "devDependencies": {

@@ -36,5 +36,12 @@ module.exports = ` <h3 align="center">Hey there, I'm <a href="https://aitalmeida
 
 Credits: [Shado2107](https://github.com/Shado2107)
 
-Last Edited on: 22/04/2021
+Last Edited on: <#today_date>
+
+<#day_before_new_years> days before new years
+
+
+<#gabot_signing>
+
+
  `;

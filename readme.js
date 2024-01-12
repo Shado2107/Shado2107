@@ -37,8 +37,6 @@ module.exports = `
 
 </details>
 
-Last Edited on: <#today_date>
-
 
 <#day_before_new_years>
 
@@ -47,5 +45,6 @@ Credits: [Shado2107](https://github.com/Shado2107)
 
 <#gabot_signing>
 
+Last Edited on: <#today_date>
 
  `;

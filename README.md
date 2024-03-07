@@ -38,13 +38,13 @@
 </details>
 
 
-**301 day before 2025 ⏱**
+**300 day before 2025 ⏱**
 
 
 Credits: [Shado2107](https://github.com/Shado2107)
 
-🤖 This README.md is updated with curiosity, by The Bot ❤️
+🤖 This README.md is updated with serenity, by The Bot ❤️
 
-Last Edited on: Wed Mar 06 2024
+Last Edited on: Thu Mar 07 2024
 
  
